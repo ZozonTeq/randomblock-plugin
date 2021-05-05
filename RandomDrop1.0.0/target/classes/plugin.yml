@@ -1,0 +1,9 @@
+name: RandomDrop
+version: 1.0-SNAPSHOT
+main: com.zozonteq.randomdrop.RandomDrop
+
+commands:
+  randomdrop:
+    description: ランダムドロップ
+    aliases:
+      - randrop
